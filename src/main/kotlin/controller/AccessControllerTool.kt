@@ -1,7 +1,7 @@
 package controller
 
 import controller.enum.Operation
-import PathResolver
+import controller.entities.PathResolver
 import arg.entities.ExitCodes
 import controller.entities.ResourceNode
 import controller.entities.ResourceNodeDictionary

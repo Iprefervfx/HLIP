@@ -1,4 +1,4 @@
-import controller.entities.ResourceNode
+package controller.entities
 
 class PathResolver {
     fun resolveFrom(start: ResourceNode, path: String): ResourceNode? {
